@@ -26,3 +26,4 @@ Project Impact
 This dashboard helps businesses gain clear visibility into sales performance, customer insights, and product trends, enabling data-driven decision-making and improved business strategies.
 
 Dashboard preview
+https://github.com/Kushitha15/Maven-Customer-Sales-Analytics-Dashboard/blob/main/Snapshot%20of%20DASHBOARDMAVEN.pdf
