@@ -1,6 +1,6 @@
 # Maven-Customer-Sales-Analytics-Dashboard
 **PROJECT**
-https://1drv.ms/x/c/ec75e7d28164281a/IQBBj6QH9qz7SqSO4al_MoJzARZ_Pav9eC40IgnRmvHbI2w?e=n3CQzu
+(https://1drv.ms/x/c/ec75e7d28164281a/IQAZyz9YpKOvTo99Jr27pyD3AWQ6w7RucrWutnroSfOO9z0?e=jMJYbr)
 
 An interactive MS Excel dashboard designed to analyze customer behavior, product performance, and sales trends using the Maven retail dataset. This project focuses on transforming raw transactional data into meaningful insights to support business decision-making. The dashboard enables users to monitor key KPIs, identify sales patterns, and evaluate performance across regions, products, and customers.
 
